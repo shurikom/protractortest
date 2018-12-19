@@ -2,7 +2,7 @@ let SpecReporter = require('jasmine-spec-reporter').SpecReporter;
 var HtmlReporter = require('protractor-beautiful-reporter');
 
 exports.config = {
-    // to run tests in SAUCELABS
+    // to run tests in SAUCELABS//
 // sauceUser: 'shurikom',
 // sauceKey: '7f73b1a8-5f83-4c1c-9bf5-4bd0e23b6780',
   
